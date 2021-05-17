@@ -11,4 +11,7 @@ const convertToBaby = (animals) => {
 
 const animals = ["panda", "turtle", "giraffe", "hippo", "sloth", "human"];
 
-console.log(convertToBaby(animals)); 
+console.log(convertToBaby(animals));
+
+x = 5;
+console.log(x);
